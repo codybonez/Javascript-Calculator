@@ -1,0 +1,8 @@
+.calculatorBody{
+    justify-content: center;
+    align-items: center;
+    border: solid rgba(53, 51, 51, 0.623);
+    margin-left: auto;
+    text-align: center;
+    margin-top: 20vh;
+}
