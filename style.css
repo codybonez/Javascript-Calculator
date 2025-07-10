@@ -1,8 +1,187 @@
-.calculatorBody{
+.Body{
+border: solid rgba(221, 208, 208, 0.623);
+
+
+}
+
+
+.calculatorRow1{
     justify-content: center;
     align-items: center;
-    border: solid rgba(53, 51, 51, 0.623);
-    margin-left: auto;
+    
+    
     text-align: center;
     margin-top: 20vh;
+}
+
+#Uservalue{
+    padding: 10px 30px;
+    margin-bottom: 4vh;
+    border: solid rgba(53, 51, 51, 0.623);
+}
+
+#Percent{
+    padding: 10px 16px;
+}
+
+#Clear{
+    padding: 10px 16px;
+
+}
+
+#Clearentry{
+    padding: 10px 16px;
+}
+#Backspace{
+    padding: 10px 16px;
+}
+
+
+
+
+
+
+.calculatorRow2{
+    justify-content:center;
+  
+    
+    
+    text-align: center;
+   
+}
+
+#OnedividebyX{
+padding: 10px 15px;
+}
+
+#XSquared{
+padding: 10px 15px;
+
+}
+
+#Squareroot{
+   padding: 10px 15px;
+}
+#Division{
+    padding: 10px 20px;
+    
+}
+   
+
+
+
+
+
+.calculatorRow3{
+    justify-content:center;
+  
+    
+    
+    text-align: center;
+   
+}
+#Number7{
+padding: 10px 20px;
+}
+
+#Number8{
+padding: 10px 20px;
+
+}
+
+#Number9{
+    padding: 10px 20px;
+}
+#Mulitply{
+    padding: 10px 20px;
+    
+}
+
+
+
+
+
+
+.calculatorRow4{
+    justify-content:center;
+  
+    
+    
+    text-align: center;
+   
+}
+#Number4{
+padding: 10px 20px;
+}
+
+#Number5{
+padding: 10px 20px;
+
+}
+
+#Number6{
+    padding: 10px 20px;
+}
+#Sub{
+    padding: 10px 20px;
+    
+}
+
+
+
+
+
+.calculatorRow5{
+    justify-content:center;
+  
+    
+    
+    text-align: center;
+   
+}
+#Number1{
+padding: 10px 20px;
+}
+
+#Number2{
+padding: 10px 20px;
+
+}
+
+#Number3{
+    padding: 10px 20px;
+}
+#Addition{
+    padding: 10px 20px;
+  
+}
+
+
+
+
+
+
+.calculatorRow6{
+    justify-content:center;
+  
+    
+    
+    text-align: center;
+   
+}
+#PositiveNegitive{
+padding: 10px 20px;
+}
+
+#Number0{
+padding: 10px 20px;
+
+}
+
+#Decimal{
+    padding: 10px 20px;
+}
+#Enter{
+    padding: 10px 20px;
+    background-color: aqua;
 }
